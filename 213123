@@ -1,0 +1,6 @@
+data_analyzer/
+├── main.py
+├── client.py
+├── server.py
+├── requirements.txt
+└── README.md
